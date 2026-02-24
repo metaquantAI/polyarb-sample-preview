@@ -34,3 +34,24 @@ polyarb-sample-preview/
 ├── .env.example
 ├── README.md
 └── package.json
+
+(The full pack also includes: positions.js, logger.js, notifier.js, monitor.js, analytics.js, report.js, setup-wallet.js, PolyArb-Launcher.exe and more.)
+
+🚀 How to Get the FULL Version
+→ Buy Lifetime Access – $99 One-Time
+You instantly receive:
+
+100% complete source code (everything shown + more)
+Professional One-Click PolyArb-Launcher.exe (zero coding needed)
+Full dashboard + WebSocket server
+Telegram alerts module
+Private support
+Lifetime updates
+
+
+Legal & Disclaimer
+This is trading software only.
+Trading involves substantial risk of loss. No profit guarantees. No financial advice.
+Not affiliated with Binance or Polymarket.
+© 2026 META_quant – PolyArb Systems
+Made for serious traders who want real code.
